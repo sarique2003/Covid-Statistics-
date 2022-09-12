@@ -1,5 +1,5 @@
 # Covid-Statistics-
-I have created a project using React, tml and Css that tells us about the daily covid cases reported, recovered worldwide and also country wise.
+I have created a project using React, html and Css that tells us about the daily covid cases reported, recovered worldwide and also country wise.
 
 # What you can do-
 User can see the data about covid cases worldwide
